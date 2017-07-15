@@ -1,5 +1,5 @@
 # xiviali.github.io
-My website with portfolio
+My website with portfolio and resume.
 
 ## Clone repository
 Write in terminal in specific folder:
