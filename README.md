@@ -4,7 +4,11 @@ My website with portfolio and resume.
 ## Clone repository
 Write in terminal in specific folder:
 ````
-git clone git@github.com:xiviali/xiviali.github.io.git
+git clone git@github.com:szymonpiechaczek/szymonpiechaczek.github.io.git
+````
+or:
+````
+git clone https://github.com/szymonpiechaczek/szymonpiechaczek.github.io.git
 ````
 
 ## License
