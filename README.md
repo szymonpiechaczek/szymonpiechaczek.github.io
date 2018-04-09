@@ -1,4 +1,4 @@
-# xiviali.github.io
+# szymonpiechaczek.github.io
 My website with portfolio and resume.
 
 ## Clone repository
